@@ -24,7 +24,42 @@
   <component name="ChangeListManager">
     <list default="true" id="b8422703-323f-432a-bd3d-0ccd610ea432" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ObserverDesignPattern/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/target/ObserverDesignPattern-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/target/surefire-reports/TEST-com.fhict.observerpattern.AppTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/target/surefire-reports/com.fhict.observerpattern.AppTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/target/test-classes/com/fhict/observerpattern/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/target/client-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/server-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/surefire-reports/TEST-com.fhict.server.AppTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/surefire-reports/TEST-com.fhict.server.ReservationTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/surefire-reports/TEST-com.fhict.server.animals.AnimalTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/surefire-reports/TEST-com.fhict.server.animals.CatTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/surefire-reports/TEST-com.fhict.server.animals.DogTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/surefire-reports/TEST-com.fhict.server.animals.ReservorTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/surefire-reports/com.fhict.server.AppTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/surefire-reports/com.fhict.server.ReservationTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/surefire-reports/com.fhict.server.animals.AnimalTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/surefire-reports/com.fhict.server.animals.CatTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/surefire-reports/com.fhict.server.animals.DogTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/surefire-reports/com.fhict.server.animals.ReservorTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/test-classes/META-INF/jpms.args" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/test-classes/com/fhict/server/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/test-classes/com/fhict/server/GenderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/test-classes/com/fhict/server/ReservationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/test-classes/com/fhict/server/animals/AnimalTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/test-classes/com/fhict/server/animals/CatTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/test-classes/com/fhict/server/animals/DogTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/test-classes/com/fhict/server/animals/ReservorTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -300,7 +335,7 @@
       <workItem from="1604080456585" duration="3000" />
       <workItem from="1605109867269" duration="1106000" />
       <workItem from="1605120664528" duration="18000" />
-      <workItem from="1605672045136" duration="1660000" />
+      <workItem from="1605672045136" duration="2010000" />
     </task>
     <servers />
   </component>
@@ -421,10 +456,11 @@
       <screen x="185" y="0" width="1920" height="1080" />
     </state>
     <state x="878" y="300" width="524" height="486" key="extract.method.dialog/0.1080.1920.1080/185.0.1920.1080@185.0.1920.1080" timestamp="1603396217491" />
-    <state x="837" y="263" width="766" height="665" key="find.popup" timestamp="1603870964392">
-      <screen x="185" y="0" width="1920" height="1080" />
+    <state x="881" y="263" width="766" height="665" key="find.popup" timestamp="1605675687747">
+      <screen x="229" y="0" width="1920" height="1080" />
     </state>
     <state x="837" y="263" width="766" height="665" key="find.popup/0.1080.1920.1080/185.0.1920.1080@185.0.1920.1080" timestamp="1603870964392" />
+    <state x="881" y="263" width="766" height="665" key="find.popup/0.1080.1920.1080/229.0.1920.1080@229.0.1920.1080" timestamp="1605675687747" />
     <state x="454" y="117" width="1372" height="853" key="new project wizard" timestamp="1603785133432">
       <screen x="185" y="0" width="1920" height="1080" />
     </state>
