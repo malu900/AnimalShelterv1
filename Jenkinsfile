@@ -5,7 +5,9 @@ pipeline {
     }
     stages {
         stage("compile") {
-            sh 'mvn -U clean compile'
+            steps {
+                sh 'mvn -U clean compile'                
+            } 
         }
         stage("clean install skip tests") {
             steps {
