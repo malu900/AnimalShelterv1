@@ -10,7 +10,7 @@ pipeline {
         stage("compile") {
             steps {
                 echo 'mvn life cycle'
-                sh 'mvn -Dmaven.test.failure.ignore clean install'
+                sh 'mvn clean verify'
             }
         }
     }
