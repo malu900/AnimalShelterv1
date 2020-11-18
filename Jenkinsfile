@@ -1,10 +1,10 @@
 pipeline {
     agent any
     stages {
-        stage("compile") {
+        stage("clean") {
             steps {
                 echo 'mvn life cycle'
-                sh 'mvn compile'
+                sh 'mvn clean'
             }
         }
         stage("compile") {

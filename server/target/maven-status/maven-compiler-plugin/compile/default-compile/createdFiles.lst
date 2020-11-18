@@ -1,7 +1,10 @@
+com/fhict/server/ISellable.class
+com/fhict/server/products/Product.class
 com/fhict/server/animals/Reservor.class
 module-info.class
 com/fhict/server/animals/Cat.class
 com/fhict/server/Reservation.class
+com/fhict/server/Webshop.class
 com/fhict/server/animals/Dog.class
 com/fhict/server/animals/Animal.class
 com/fhict/server/App.class
