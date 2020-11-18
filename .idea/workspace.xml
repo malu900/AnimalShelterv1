@@ -25,6 +25,7 @@
     <list default="true" id="b8422703-323f-432a-bd3d-0ccd610ea432" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ObserverDesignPattern/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/client/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server/pom.xml" afterDir="false" />
     </list>
@@ -302,7 +303,7 @@
       <workItem from="1604080456585" duration="3000" />
       <workItem from="1605109867269" duration="1106000" />
       <workItem from="1605120664528" duration="18000" />
-      <workItem from="1605672045136" duration="2170000" />
+      <workItem from="1605672045136" duration="2494000" />
     </task>
     <servers />
   </component>
@@ -423,11 +424,11 @@
       <screen x="185" y="0" width="1920" height="1080" />
     </state>
     <state x="878" y="300" width="524" height="486" key="extract.method.dialog/0.1080.1920.1080/185.0.1920.1080@185.0.1920.1080" timestamp="1603396217491" />
-    <state x="881" y="263" width="766" height="665" key="find.popup" timestamp="1605675726979">
+    <state x="881" y="263" width="766" height="665" key="find.popup" timestamp="1605676145789">
       <screen x="229" y="0" width="1920" height="1080" />
     </state>
     <state x="837" y="263" width="766" height="665" key="find.popup/0.1080.1920.1080/185.0.1920.1080@185.0.1920.1080" timestamp="1603870964392" />
-    <state x="881" y="263" width="766" height="665" key="find.popup/0.1080.1920.1080/229.0.1920.1080@229.0.1920.1080" timestamp="1605675726979" />
+    <state x="881" y="263" width="766" height="665" key="find.popup/0.1080.1920.1080/229.0.1920.1080@229.0.1920.1080" timestamp="1605676145789" />
     <state x="454" y="117" width="1372" height="853" key="new project wizard" timestamp="1603785133432">
       <screen x="185" y="0" width="1920" height="1080" />
     </state>
