@@ -23,11 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8422703-323f-432a-bd3d-0ccd610ea432" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ObserverDesignPattern/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/client/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +69,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -303,7 +301,7 @@
       <workItem from="1604080456585" duration="3000" />
       <workItem from="1605109867269" duration="1106000" />
       <workItem from="1605120664528" duration="18000" />
-      <workItem from="1605672045136" duration="2877000" />
+      <workItem from="1605672045136" duration="3509000" />
     </task>
     <servers />
   </component>
@@ -408,10 +406,11 @@
       <screen x="185" y="0" width="1920" height="1080" />
     </state>
     <state x="678" y="198" width="924" height="691" key="Maven.ArtifactSearchDialog/0.1080.1920.1080/185.0.1920.1080@185.0.1920.1080" timestamp="1603653097506" />
-    <state x="628" y="117" width="1024" height="852" key="SettingsEditor" timestamp="1603656787724">
-      <screen x="185" y="0" width="1920" height="1080" />
+    <state x="672" y="117" width="1024" height="852" key="SettingsEditor" timestamp="1605677174154">
+      <screen x="229" y="0" width="1920" height="1080" />
     </state>
     <state x="628" y="117" width="1024" height="852" key="SettingsEditor/0.1080.1920.1080/185.0.1920.1080@185.0.1920.1080" timestamp="1603656787724" />
+    <state x="672" y="117" key="SettingsEditor/0.1080.1920.1080/229.0.1920.1080@229.0.1920.1080" timestamp="1605677174154" />
     <state x="899" y="215" width="482" height="657" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1603871141685">
       <screen x="185" y="0" width="1920" height="1080" />
     </state>
@@ -424,11 +423,11 @@
       <screen x="185" y="0" width="1920" height="1080" />
     </state>
     <state x="878" y="300" width="524" height="486" key="extract.method.dialog/0.1080.1920.1080/185.0.1920.1080@185.0.1920.1080" timestamp="1603396217491" />
-    <state x="881" y="263" width="766" height="665" key="find.popup" timestamp="1605676174320">
+    <state x="731" y="163" width="978" height="775" key="find.popup" timestamp="1605676682734">
       <screen x="229" y="0" width="1920" height="1080" />
     </state>
     <state x="837" y="263" width="766" height="665" key="find.popup/0.1080.1920.1080/185.0.1920.1080@185.0.1920.1080" timestamp="1603870964392" />
-    <state x="881" y="263" width="766" height="665" key="find.popup/0.1080.1920.1080/229.0.1920.1080@229.0.1920.1080" timestamp="1605676174320" />
+    <state x="731" y="163" width="978" height="775" key="find.popup/0.1080.1920.1080/229.0.1920.1080@229.0.1920.1080" timestamp="1605676682734" />
     <state x="454" y="117" width="1372" height="853" key="new project wizard" timestamp="1603785133432">
       <screen x="185" y="0" width="1920" height="1080" />
     </state>
