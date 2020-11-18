@@ -1,0 +1,18 @@
+
+‹
+java:S1319$"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ë²Ù‰üÿÿÿÿ
+‹
+java:S13197"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(°ÅŸúÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÒÉö„şÿÿÿÿ
+A
+java:S1075"&Remove this hard-coded path-delimiter.(ÒÉö„şÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ†Ñùÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÙ“
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªéı’şÿÿÿÿ
+c	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ïêØ
+o
+java:S2293>"YReplace the type specification in this constructor call with the diamond operator ("<>").(ıÖÑÒ
+G
+java:S1068",Remove this unused "filepath" private field.(ÒÉö„şÿÿÿÿ

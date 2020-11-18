@@ -1,0 +1,16 @@
+.txtfieldDisabled {
+    -fx-background-color: grey;
+    -fx-opacity: 0.2;
+}
+/*.radio-button:selected {*/
+/*    -fx-mark-highlight-color: red ;*/
+/*    -fx-mark-color: red ;*/
+/*}*/
+.female:selected  {
+    -fx-mark-highlight-color: #f59dfa;
+    -fx-mark-color: #f59dfa;
+}
+.male:selected {
+    -fx-mark-highlight-color: #82cded;
+    -fx-mark-color: #82cded;
+}

@@ -1,0 +1,8 @@
+com/fhict/server/animals/Reservor.class
+module-info.class
+com/fhict/server/animals/Cat.class
+com/fhict/server/Reservation.class
+com/fhict/server/animals/Dog.class
+com/fhict/server/animals/Animal.class
+com/fhict/server/App.class
+com/fhict/server/Gender.class
