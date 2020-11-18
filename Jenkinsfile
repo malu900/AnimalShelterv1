@@ -4,16 +4,10 @@ pipeline {
         maven 'mvn'
     }
     stages {
-        stage("clean") {
-            steps {
-                echo 'mvn life cycle'
-                sh 'mvn clean'
-            }
-        }
         stage("compile") {
             steps {
                 echo 'mvn life cycle'
-                sh 'mvn compile'
+                sh 'mvn -Dmaven.test.failure.ignore  clean install'
             }
         }
     }
