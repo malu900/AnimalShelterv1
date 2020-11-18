@@ -4,9 +4,14 @@ pipeline {
         maven 'mvn'
     }
     stages {
-        stage("compile") {
+        stage("clean install skip tests") {
             steps {
-                sh 'mvn clean verify'
+                sh 'mvn -Dmaven.test.failure.ignore  clean install'
+            }
+        }
+        stage("tests") {
+            steps {
+                sh 'mvn -Dmaven.test.failure.ignore  test'
             }
         }
     }
