@@ -23,74 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8422703-323f-432a-bd3d-0ccd610ea432" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aaf85a8d8a8815786502ed6948f577c026dd89fe" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aaf85a8d8a8815786502ed6948f577c026dd89fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f2916c1d098fa73f6366e7e15b977e62763b84b4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f2916c1d098fa73f6366e7e15b977e62763b84b4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/ObserverDesignPattern.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/src/main/java/com/fhict/observerpattern/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/src/main/java/com/fhict/observerpattern/DeliveryData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/src/main/java/com/fhict/observerpattern/DeliveryWarehouseCenter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/src/main/java/com/fhict/observerpattern/Observer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/src/main/java/com/fhict/observerpattern/Reservation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/src/main/java/com/fhict/observerpattern/Seller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/src/main/java/com/fhict/observerpattern/Subject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/src/main/java/com/fhict/observerpattern/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/src/main/java/com/fhict/observerpattern/animals/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/src/main/java/com/fhict/observerpattern/animals/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/src/main/java/com/fhict/observerpattern/animals/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/src/main/java/com/fhict/observerpattern/animals/Gender.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/src/main/java/com/fhict/observerpattern/animals/Reservor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/src/test/java/com/fhict/observerpattern/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/target/ObserverDesignPattern-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/target/classes/com/fhict/observerpattern/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/target/classes/com/fhict/observerpattern/DeliveryData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/target/classes/com/fhict/observerpattern/DeliveryWarehouseCenter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/target/classes/com/fhict/observerpattern/Observer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/target/classes/com/fhict/observerpattern/Reservation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/target/classes/com/fhict/observerpattern/Seller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/target/classes/com/fhict/observerpattern/Subject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/target/classes/com/fhict/observerpattern/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/target/classes/com/fhict/observerpattern/animals/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/target/classes/com/fhict/observerpattern/animals/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/target/classes/com/fhict/observerpattern/animals/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/target/classes/com/fhict/observerpattern/animals/Gender.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/target/classes/com/fhict/observerpattern/animals/Reservor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/target/surefire-reports/TEST-com.fhict.observerpattern.AppTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/target/surefire-reports/com.fhict.observerpattern.AppTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/target/test-classes/com/fhict/observerpattern/AppTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/client/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/target/classes/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/client/target/classes/module-info.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/target/client-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/client/target/client-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/client/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/myfile.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/module-info.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/server-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/server-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/surefire-reports/TEST-com.fhict.server.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/surefire-reports/TEST-com.fhict.server.AppTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/surefire-reports/TEST-com.fhict.server.ReservationTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/surefire-reports/TEST-com.fhict.server.ReservationTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/surefire-reports/TEST-com.fhict.server.animals.AnimalTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/surefire-reports/TEST-com.fhict.server.animals.AnimalTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/surefire-reports/TEST-com.fhict.server.animals.CatTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/surefire-reports/TEST-com.fhict.server.animals.CatTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/surefire-reports/TEST-com.fhict.server.animals.DogTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/surefire-reports/TEST-com.fhict.server.animals.DogTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/surefire-reports/TEST-com.fhict.server.animals.ReservorTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/surefire-reports/TEST-com.fhict.server.animals.ReservorTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/surefire-reports/com.fhict.server.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/surefire-reports/com.fhict.server.AppTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/surefire-reports/com.fhict.server.ReservationTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/surefire-reports/com.fhict.server.ReservationTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/surefire-reports/com.fhict.server.animals.AnimalTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/surefire-reports/com.fhict.server.animals.AnimalTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/surefire-reports/com.fhict.server.animals.CatTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/surefire-reports/com.fhict.server.animals.CatTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/surefire-reports/com.fhict.server.animals.DogTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/surefire-reports/com.fhict.server.animals.DogTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/test-classes/META-INF/jpms.args" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -373,7 +306,7 @@
       <workItem from="1605678483934" duration="538000" />
       <workItem from="1605679040850" duration="43000" />
       <workItem from="1605679102600" duration="825000" />
-      <workItem from="1605679946314" duration="583000" />
+      <workItem from="1605679946314" duration="654000" />
     </task>
     <servers />
   </component>
