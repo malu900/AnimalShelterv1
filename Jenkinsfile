@@ -9,7 +9,6 @@ pipeline {
         }
         stage("compile") {
             steps {
-                echo 'mvn life cycle'
                 sh 'mvn clean verify'
             }
         }

@@ -23,22 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8422703-323f-432a-bd3d-0ccd610ea432" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/server-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/server-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/surefire-reports/TEST-com.fhict.server.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/surefire-reports/TEST-com.fhict.server.AppTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/surefire-reports/TEST-com.fhict.server.ReservationTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/surefire-reports/TEST-com.fhict.server.ReservationTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/surefire-reports/TEST-com.fhict.server.animals.AnimalTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/surefire-reports/TEST-com.fhict.server.animals.AnimalTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/surefire-reports/TEST-com.fhict.server.animals.CatTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/surefire-reports/TEST-com.fhict.server.animals.CatTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/surefire-reports/TEST-com.fhict.server.animals.DogTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/surefire-reports/TEST-com.fhict.server.animals.DogTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/surefire-reports/TEST-com.fhict.server.animals.ReservorTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/surefire-reports/TEST-com.fhict.server.animals.ReservorTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/surefire-reports/com.fhict.server.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/surefire-reports/com.fhict.server.AppTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/surefire-reports/com.fhict.server.ReservationTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/surefire-reports/com.fhict.server.ReservationTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/surefire-reports/com.fhict.server.animals.AnimalTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/surefire-reports/com.fhict.server.animals.AnimalTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/surefire-reports/com.fhict.server.animals.CatTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/surefire-reports/com.fhict.server.animals.CatTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/surefire-reports/com.fhict.server.animals.DogTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/surefire-reports/com.fhict.server.animals.DogTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/surefire-reports/com.fhict.server.animals.ReservorTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/surefire-reports/com.fhict.server.animals.ReservorTest.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -314,7 +299,7 @@
       <workItem from="1604080456585" duration="3000" />
       <workItem from="1605109867269" duration="1106000" />
       <workItem from="1605120664528" duration="18000" />
-      <workItem from="1605672045136" duration="4012000" />
+      <workItem from="1605672045136" duration="4069000" />
     </task>
     <servers />
   </component>
