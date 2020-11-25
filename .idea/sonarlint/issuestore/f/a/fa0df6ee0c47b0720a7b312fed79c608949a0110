@@ -1,0 +1,42 @@
+
+o
+java:S1104"TMake rBtnMale a static final constant or non-public and provide accessors if needed.(Âí˜ûÿÿÿÿ
+s
+java:S1104"XMake spinnerPrice a static final constant or non-public and provide accessors if needed.(¨ÁÈûÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(¿¢¾ï
+q
+java:S1104"VMake rBtnFemale a static final constant or non-public and provide accessors if needed.(€°†øüÿÿÿÿ
+{
+java:S1104"`Make SellableItemDropdown a static final constant or non-public and provide accessors if needed.(Ê¦Š”şÿÿÿÿ
+y	java:S116"_Rename this field "SellableItemDropdown" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¦Š”şÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(­ô¨ãşÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(ı¿–ö
+l
+java:S1192b"QDefine a constant instead of duplicating this literal "txtfieldDisabled" 3 times.(ÒÃè ıÿÿÿÿ
+s
+java:S1104"]Make listViewSellables a static final constant or non-public and provide accessors if needed.(¿¢¾ï
+H
+java:S1172."2Remove this unused method parameter "actionEvent".(Ÿ¾¬Ã
+H
+java:S1199@"-Extract this nested code block into a method.(€ œŒøÿÿÿÿ
+M	java:S1061"9Replace this use of System.out or System.err by a logger.(ĞáÜG
+V	java:S125J"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+H
+java:S1199:"-Extract this nested code block into a method.(Ú÷Äûşÿÿÿÿ
+s
+java:S1104"XMake txtFieldName a static final constant or non-public and provide accessors if needed.(´¼–çøÿÿÿÿ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(­ô¨ãşÿÿÿÿ
+H
+java:S1172T"2Remove this unused method parameter "actionEvent".(ÅÃşè
+w
+java:S1104"\Make badHabitsTxtArea a static final constant or non-public and provide accessors if needed.(†ïè‹ıÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(¨ÁÈûÿÿÿÿ
+<	java:S1316""Add a default case to this switch.(üïõ›ıÿÿÿÿ
+p
+java:S1104"UMake tglGender a static final constant or non-public and provide accessors if needed.(÷†Ñşÿÿÿÿ
+W
+java:S1128"<Remove this unused import 'com.fhict.server.animals.Animal'.(‚˜áøÿÿÿÿ
+H
+java:S1172`"2Remove this unused method parameter "actionEvent".(Ÿ•Šñ

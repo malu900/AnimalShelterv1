@@ -5,10 +5,8 @@ import com.fhict.server.ISellable;
 import com.fhict.server.Webshop;
 import com.fhict.server.animals.Animal;
 import javafx.collections.FXCollections;
-import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
-import javafx.scene.Node;
 import javafx.scene.control.*;
 
 import java.io.IOException;

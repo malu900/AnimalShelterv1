@@ -13,7 +13,7 @@
     <bytecodeTargetLevel>
       <module name="AnimalShelter" target="11" />
       <module name="client" target="11" />
-      <module name="ObserverDesignPattern" target="11" />
+      <module name="frontend" target="11" />
       <module name="server" target="11" />
     </bytecodeTargetLevel>
   </component>
