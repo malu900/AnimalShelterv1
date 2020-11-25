@@ -6,10 +6,12 @@ pipeline {
 
     stages {
         stage("initialize") {
-            echo "------------------------------------- INITIALIZE -------------------------------------"
-            sh 'java -version'
-            sh 'javac -version'
-            echo "------------------------------------- END INITIALIZE -------------------------------------"
+            steps {
+                echo "------------------------------------- INITIALIZE -------------------------------------"
+                sh 'java -version'
+                sh 'javac -version'
+                echo "------------------------------------- END INITIALIZE -------------------------------------"
+            }
         }
         stage("project") {
             steps {
