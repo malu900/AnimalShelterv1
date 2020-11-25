@@ -30,8 +30,8 @@ pipeline {
     }
     post {
         always {
-            archiveArtifacts "/server/target/**/*.jar"
-            junit allowEmptyResults: true, testResults: '**/target/surefire-reports/TEST-*.xml'
+            archiveArtifacts "**/target/**/*"
+            junit allowEmptyResults: true, testResults: '**/target/surefire-reports/TEST-*.txt'
         }
     }
 }
