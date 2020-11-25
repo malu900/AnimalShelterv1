@@ -33,7 +33,7 @@ pipeline {
         always {
             archiveArtifacts "**/target/**/*"
             // Fool Jenkins into thinking the tests results are new
-            sh 'find . -name "TEST-*.xml" -exec touch {} \\;'
+//             sh 'find . -name "**/TEST-*.xml" -exec touch {} \\;'
             junit '**/build/reports/**/*.xml'
             junit allowEmptyResults: true, testResults: '**/target/surefire-reports/*.xml'
             junit allowEmptyResults: true, testResults: '**/test-results/*.xml'
