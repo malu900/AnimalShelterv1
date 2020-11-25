@@ -4,15 +4,6 @@ pipeline {
         maven 'mvn'
     }
     stages {
-        stage("jdk11") {
-            environment {
-                JAVA_HOME = "/usr/lib/jvm/java-11-openjdk-amd64"
-            }
-            steps {
-                sh "java -version"
-                sh "mvn --version"
-            }
-        }
         stage("compile") {
             steps {
                 sh 'java -version'
