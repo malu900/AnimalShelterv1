@@ -22,11 +22,11 @@ pipeline {
                 sh "mvn -Dmaven.test.failure.ignore -f ./server/pom.xml test"
             }
         }
-        post {
-            always {
-                archive "target/**/*"
-                junit 'target/surefire-reports/*.xml'
-            }
+    }
+    post {
+        always {
+            archive "target/**/*"
+            junit 'target/surefire-reports/*.xml'
         }
     }
 }
