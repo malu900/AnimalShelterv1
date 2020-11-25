@@ -25,6 +25,7 @@
     <list default="true" id="4618eb2f-1e64-46cd-b753-cf86353e7e08" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +111,7 @@
       <updated>1606320781276</updated>
       <workItem from="1606320783166" duration="2421000" />
       <workItem from="1606323221401" duration="83000" />
-      <workItem from="1606323322753" duration="3287000" />
+      <workItem from="1606323322753" duration="3914000" />
     </task>
     <servers />
   </component>
@@ -174,5 +175,9 @@
       <screen x="185" y="0" width="1920" height="1080" />
     </state>
     <state x="454" y="117" width="1372" height="853" key="new project wizard/0.1080.1920.1080/185.0.1920.1080@185.0.1920.1080" timestamp="1606322443097" />
+    <state x="808" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1606326711595">
+      <screen x="185" y="0" width="1920" height="1080" />
+    </state>
+    <state x="808" y="239" width="672" height="678" key="search.everywhere.popup/0.1080.1920.1080/185.0.1920.1080@185.0.1920.1080" timestamp="1606326711595" />
   </component>
 </project>

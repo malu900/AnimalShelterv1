@@ -2,7 +2,6 @@ pipeline {
     agent any
     tools {
         maven 'mvn'
-        java 'openjdk-11'
     }
     stages {
         stage("jdk11") {
