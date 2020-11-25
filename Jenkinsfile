@@ -1,11 +1,13 @@
-node {
-    def mvnHome
-    stage('Initialize') {
-        mvnHome = tool 'maven-3.6.3'
+pipeline {
+    agent any
+    tools {
+        maven 'mvn'
     }
-    stage("compile") {
-        steps {
-            sh "'${mvnHome}/bin/mvn' -Dmaven.test.failure.ignore -f ./server/pom.xml clean install"
+    stages {
+        stage("compile") {
+            steps {
+                sh "'mvn' -Dmaven.test.failure.ignore -f ./server/pom.xml clean install"
+            }
         }
     }
 }
