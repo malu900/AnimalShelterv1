@@ -31,7 +31,7 @@ pipeline {
     post {
         always {
             archiveArtifacts "**/target/**/*"
-            junit allowEmptyResults: false, testResults: '**/target/surefire-reports/TEST-*.txt'
+            junit allowEmptyResults: false, testResults: '**/target/surefire-reports/TEST-*.xml'
         }
     }
 }
