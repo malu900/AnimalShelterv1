@@ -6,7 +6,9 @@ pipeline {
     stages {
         stage("compile") {
             steps {
-                sh "'mvn' -Dmaven.test.failure.ignore -f ./server/pom.xml clean install -e"
+                sh 'java -version'
+                sh 'javac -version'
+                sh "'mvn' -Dmaven.test.failure.ignore -f ./server/pom.xml clean install -X"
             }
         }
     }
