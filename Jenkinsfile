@@ -22,9 +22,11 @@ pipeline {
                 sh "mvn -Dmaven.test.failure.ignore -f ./server/pom.xml test"
             }
         }
-        stage('Results') {
-//             archiveArtifacts './server/target/*.jar'
-            junit allowEmptyResults: true, testResults: '**/target/surefire-reports/TEST-*.xml'
+        post {
+            always {
+                archive "target/**/*"
+                junit 'target/surefire-reports/*.xml'
+            }
         }
     }
 }
