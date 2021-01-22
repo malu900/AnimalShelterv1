@@ -27,7 +27,6 @@ public class Webshop {
         this.getSellables().add(sellable);
         writeToFile(sellable);
     }
-
     public void RemoveProduct(ISellable sold) {
         sellables.removeIf(sellable -> sellable.equals(sold));
     }

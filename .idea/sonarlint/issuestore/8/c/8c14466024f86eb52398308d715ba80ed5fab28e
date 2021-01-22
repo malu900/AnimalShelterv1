@@ -1,0 +1,5 @@
+
+H
+java:S1068"-Remove this unused "NeedsWalk" private field.(â²¢ðÿÿÿÿÿ
+h	java:S116"SRename this field "LastWalk" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¯Äà
+n	java:S116"TRename this field "NeedsWalk" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â²¢ðÿÿÿÿÿ

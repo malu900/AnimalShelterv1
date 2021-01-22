@@ -4,6 +4,7 @@ import com.fhict.server.animals.Animal;
 import com.fhict.server.animals.Cat;
 import com.fhict.server.animals.Dog;
 import com.fhict.server.Gender;
+import com.fhict.server.products.Product;
 
 import java.io.FileOutputStream;
 import java.io.ObjectOutputStream;
@@ -16,7 +17,6 @@ import java.util.ArrayList;
  */
 public class Reservation {
     private ArrayList<Animal> animals = new ArrayList<>();
-
 
     public void NewCat(String name, Gender gender, String badHabits) {
         this.getAnimals().add(new Cat(name, gender, badHabits));

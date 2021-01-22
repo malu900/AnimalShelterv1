@@ -1,6 +1,7 @@
 package com.fhict.client;
 
 import com.fhict.server.animals.Animal;
+import com.fhict.server.animals.Dog;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;

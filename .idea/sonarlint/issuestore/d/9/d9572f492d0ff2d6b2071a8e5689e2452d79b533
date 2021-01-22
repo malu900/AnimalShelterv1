@@ -1,48 +1,48 @@
 
+N	java:S106b"9Replace this use of System.out or System.err by a logger.(¼ÕÂ
 w
 java:S1104"\Make badHabitsTxtArea a static final constant or non-public and provide accessors if needed.(†ïè‹ýÿÿÿÿ
 q
 java:S1104"VMake btnReserve a static final constant or non-public and provide accessors if needed.(çÐ†™úÿÿÿÿ
-Š
-java:S1845w"tRename method "BtnGoToWebShop" to prevent any misunderstanding/clash with field "BtnGoToWebShop" defined on line 18.(þÐÔ³
 m
 java:S1104"WMake rButtonMale a static final constant or non-public and provide accessors if needed.(ß²×È
-Y
-java:S1128">Remove this unused import 'javafx.collections.ObservableList'.(ÄÜ€éüÿÿÿÿ
-H
-java:S1172@"2Remove this unused method parameter "actionEvent".(Š¹’¼
-L
-java:S1172n"1Remove this unused method parameter "mouseEvent".(žÞ×£ûÿÿÿÿ
-j
-java:S1104"OMake lbl a static final constant or non-public and provide accessors if needed.(·¦åºýÿÿÿÿ
-u
-java:S1104"ZMake BtnGoToWebShop a static final constant or non-public and provide accessors if needed.(öÝÖÌøÿÿÿÿ
-t
-java:S1104"YMake nameContainer a static final constant or non-public and provide accessors if needed.(ÅûÁùÿÿÿÿ
 s
 java:S1104"XMake BtnAddAnimal a static final constant or non-public and provide accessors if needed.(¬¢è˜ùÿÿÿÿ
-E
-java:S3740"/Provide the parametrized type for this generic.(©ùÐŒ
-u
-java:S1104"_Make txtAreaReserverName a static final constant or non-public and provide accessors if needed.(…¢§
-k
-java:S1104"UMake tlgGender a static final constant or non-public and provide accessors if needed.(ì•ü
-m
-java:S1104"WMake nameTxtArea a static final constant or non-public and provide accessors if needed.(øŸß’
-s	java:S116"YRename this field "BtnGoToWebShop" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÝÖÌøÿÿÿÿ
 c	java:S100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ªÞ„
-H
-java:S1172\"2Remove this unused method parameter "actionEvent".(Á”ª„
-J
-java:S1172r"/Remove this unused method parameter "keyEvent".(šÅŸ˜ýÿÿÿÿ
 p
 java:S1104"ZMake listBoxAnimals a static final constant or non-public and provide accessors if needed.(©ùÐŒ
-c	java:S100w"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þÐÔ³
-H
-java:S1172w"2Remove this unused method parameter "actionEvent".(þÐÔ³
 H
 java:S11725"2Remove this unused method parameter "actionEvent".(Ÿ•Šñ
-q	java:S116"WRename this field "BtnAddAnimal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬¢è˜ùÿÿÿÿ
-N	java:S106b"9Replace this use of System.out or System.err by a logger.(¼ÕÂ
+H
+java:S1172\"2Remove this unused method parameter "actionEvent".(Á”ª„
+E
+java:S3740"/Provide the parametrized type for this generic.(©ùÐŒ
+t
+java:S1104"YMake nameContainer a static final constant or non-public and provide accessors if needed.(ÅûÁùÿÿÿÿ
+u
+java:S1104"ZMake BtnGoToWebShop a static final constant or non-public and provide accessors if needed.(öÝÖÌøÿÿÿÿ
+j
+java:S1104"OMake lbl a static final constant or non-public and provide accessors if needed.(·¦åºýÿÿÿÿ
+L
+java:S1172n"1Remove this unused method parameter "mouseEvent".(žÞ×£ûÿÿÿÿ
+m
+java:S1104"WMake nameTxtArea a static final constant or non-public and provide accessors if needed.(øŸß’
+k
+java:S1104"UMake tlgGender a static final constant or non-public and provide accessors if needed.(ì•ü
+Š
+java:S1845w"tRename method "BtnGoToWebShop" to prevent any misunderstanding/clash with field "BtnGoToWebShop" defined on line 18.(þÐÔ³
+c	java:S100w"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þÐÔ³
 t
 java:S1104"YMake rButtonFemale a static final constant or non-public and provide accessors if needed.(‘¦ž¬ùÿÿÿÿ
+u
+java:S1104"_Make txtAreaReserverName a static final constant or non-public and provide accessors if needed.(…¢§
+H
+java:S1172w"2Remove this unused method parameter "actionEvent".(þÐÔ³
+s	java:S116"YRename this field "BtnGoToWebShop" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÝÖÌøÿÿÿÿ
+Y
+java:S1128">Remove this unused import 'javafx.collections.ObservableList'.(ÄÜ€éüÿÿÿÿ
+J
+java:S1172r"/Remove this unused method parameter "keyEvent".(šÅŸ˜ýÿÿÿÿ
+H
+java:S1172@"2Remove this unused method parameter "actionEvent".(Š¹’¼
+q	java:S116"WRename this field "BtnAddAnimal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬¢è˜ùÿÿÿÿ

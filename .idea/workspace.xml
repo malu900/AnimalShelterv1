@@ -23,7 +23,77 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4618eb2f-1e64-46cd-b753-cf86353e7e08" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/8/08a8b343eb3d041b4e874e74bf19e4275b4be110" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0c2c5c506cef0ed2d3ad2b7e45e97980b66f5520" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/7/1704d0b0a5ea9c11d73f6e3f5e2fa7f6d1ceddfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/4720e09a03f894f36a6caed18f1d6c83c26567f1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/2/7207bdfa5cb711e65237c5e47bf12d8b30a8e511" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/2/7277d14ede5e9c205b54bf1308ecb85636df476f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8c14466024f86eb52398308d715ba80ed5fab28e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8cf6eea5806e1386d0b3f24907904a1ffb5148cd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aaf85a8d8a8815786502ed6948f577c026dd89fe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/f/ef8def03dc8f162799089e9b5f4321201c8810d5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f2916c1d098fa73f6366e7e15b977e62763b84b4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__com_thoughtworks_qdox_qdox_2_0_M8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__org_apache_maven_maven_aether_provider_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__org_apache_maven_maven_artifact_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__org_apache_maven_maven_core_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__org_apache_maven_maven_model_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__org_apache_maven_maven_model_builder_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__org_apache_maven_maven_plugin_api_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__org_apache_maven_maven_repository_metadata_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__org_apache_maven_maven_settings_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__org_apache_maven_maven_settings_builder_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__org_apache_maven_plugins_maven_compiler_plugin_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__org_apache_maven_shared_maven_shared_incremental_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__org_apache_maven_shared_maven_shared_utils_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__org_codehaus_plexus_plexus_classworlds_2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__org_codehaus_plexus_plexus_compiler_api_2_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__org_codehaus_plexus_plexus_compiler_javac_2_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__org_codehaus_plexus_plexus_compiler_manager_2_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__org_codehaus_plexus_plexus_component_annotations_1_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__org_codehaus_plexus_plexus_interpolation_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__org_codehaus_plexus_plexus_java_0_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__org_ow2_asm_asm_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__org_sonatype_aether_aether_api_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__org_sonatype_aether_aether_impl_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__org_sonatype_aether_aether_spi_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__org_sonatype_aether_aether_util_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__org_sonatype_plexus_plexus_cipher_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__org_sonatype_plexus_plexus_sec_dispatcher_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__org_sonatype_sisu_sisu_guice_noaop_2_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__org_sonatype_sisu_sisu_inject_bean_1_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/libraries/Maven__org_sonatype_sisu_sisu_inject_plexus_1_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/9/d9572f492d0ff2d6b2071a8e5689e2452d79b533" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/9/d9572f492d0ff2d6b2071a8e5689e2452d79b533" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/f/df27527266ecdf272199eef44b51ae2ab3fc50a9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/f/df27527266ecdf272199eef44b51ae2ab3fc50a9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/fa0df6ee0c47b0720a7b312fed79c608949a0110" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/fa0df6ee0c47b0720a7b312fed79c608949a0110" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/java/com/fhict/client/PrimaryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/java/com/fhict/client/PrimaryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/target/classes/com/fhict/client/PrimaryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/client/target/classes/com/fhict/client/PrimaryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/myfile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/server/server.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/fhict/server/ISellable.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/com/fhict/server/ISellable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/fhict/server/Reservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/com/fhict/server/Reservation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/fhict/server/Webshop.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/com/fhict/server/Webshop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/classes/com/fhict/server/Reservation.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/fhict/server/Reservation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/classes/com/fhict/server/Webshop.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/fhict/server/Webshop.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,18 +104,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="module-info" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
-      </MavenGeneralSettings>
-    </option>
   </component>
   <component name="ProjectId" id="1kmzuuK5GRdYXQJRkR98kqZiKx2" />
   <component name="ProjectViewState">
@@ -58,7 +122,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/server/pom.xml" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -94,10 +158,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fhict.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fhict.server" />
+      <option name="MAIN_CLASS_NAME" value="com.fhict.server.AppTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Client" />
       <item itemvalue="Application.Server" />
+      <item itemvalue="JUnit.AppTest" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AppTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -109,7 +194,29 @@
       <updated>1606320781276</updated>
       <workItem from="1606320783166" duration="2421000" />
       <workItem from="1606323221401" duration="83000" />
-      <workItem from="1606323322753" duration="7487000" />
+      <workItem from="1606323322753" duration="8028000" />
+      <workItem from="1606737990994" duration="605000" />
+      <workItem from="1606741318283" duration="56000" />
+      <workItem from="1606820838149" duration="768000" />
+      <workItem from="1606888307075" duration="932000" />
+      <workItem from="1606897510942" duration="2279000" />
+      <workItem from="1607446625514" duration="627000" />
+      <workItem from="1607493480575" duration="11000" />
+      <workItem from="1608104907921" duration="190000" />
+      <workItem from="1610462588507" duration="822000" />
+      <workItem from="1610463420113" duration="196000" />
+      <workItem from="1610463653801" duration="358000" />
+      <workItem from="1610464036213" duration="223000" />
+      <workItem from="1610464276229" duration="24000" />
+      <workItem from="1610465705916" duration="711000" />
+      <workItem from="1610472906099" duration="142000" />
+      <workItem from="1610473594239" duration="154000" />
+      <workItem from="1610917977834" duration="1512000" />
+      <workItem from="1610962422146" duration="339000" />
+      <workItem from="1611134814615" duration="997000" />
+      <workItem from="1611313604189" duration="54000" />
+      <workItem from="1611313716611" duration="259000" />
+      <workItem from="1611314003183" duration="695000" />
     </task>
     <servers />
   </component>
@@ -127,55 +234,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="603" y="198" width="1084" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606323140003">
-      <screen x="185" y="0" width="1920" height="1080" />
-    </state>
-    <state x="603" y="198" width="1084" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.1080.1920.1080/185.0.1920.1080@185.0.1920.1080" timestamp="1606323140003" />
-    <state x="877" y="345" width="525" height="423" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606322127267">
-      <screen x="185" y="0" width="1920" height="1080" />
-    </state>
-    <state x="877" y="345" width="525" height="423" key="#com.intellij.ide.util.TreeClassChooserDialog/0.1080.1920.1080/185.0.1920.1080@185.0.1920.1080" timestamp="1606322127267" />
-    <state x="873" y="301" width="524" height="491" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1606321122769">
-      <screen x="185" y="0" width="1920" height="1080" />
-    </state>
-    <state x="873" y="301" width="524" height="491" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.1080.1920.1080/185.0.1920.1080@185.0.1920.1080" timestamp="1606321122769" />
-    <state x="923" y="301" width="424" height="491" key="FileChooserDialogImpl" timestamp="1606321039122">
-      <screen x="185" y="0" width="1920" height="1080" />
-    </state>
-    <state x="923" y="301" width="424" height="491" key="FileChooserDialogImpl/0.1080.1920.1080/185.0.1920.1080@185.0.1920.1080" timestamp="1606321039122" />
-    <state width="1920" height="282" key="GridCell.Tab.0.bottom" timestamp="1606323203930">
-      <screen x="185" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1920" height="282" key="GridCell.Tab.0.bottom/0.1080.1920.1080/185.0.1920.1080@185.0.1920.1080" timestamp="1606323203930" />
-    <state width="1920" height="282" key="GridCell.Tab.0.center" timestamp="1606323203930">
-      <screen x="185" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1920" height="282" key="GridCell.Tab.0.center/0.1080.1920.1080/185.0.1920.1080@185.0.1920.1080" timestamp="1606323203930" />
-    <state width="1920" height="282" key="GridCell.Tab.0.left" timestamp="1606323203930">
-      <screen x="185" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1920" height="282" key="GridCell.Tab.0.left/0.1080.1920.1080/185.0.1920.1080@185.0.1920.1080" timestamp="1606323203930" />
-    <state width="1920" height="282" key="GridCell.Tab.0.right" timestamp="1606323203930">
-      <screen x="185" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1920" height="282" key="GridCell.Tab.0.right/0.1080.1920.1080/185.0.1920.1080@185.0.1920.1080" timestamp="1606323203930" />
-    <state x="628" y="117" width="1024" height="852" key="SettingsEditor" timestamp="1606322995050">
-      <screen x="185" y="0" width="1920" height="1080" />
-    </state>
-    <state x="628" y="117" width="1024" height="852" key="SettingsEditor/0.1080.1920.1080/185.0.1920.1080@185.0.1920.1080" timestamp="1606322995050" />
-    <state x="837" y="263" width="616" height="554" key="find.popup" timestamp="1606325413749">
-      <screen x="185" y="0" width="1920" height="1080" />
-    </state>
-    <state x="837" y="263" width="616" height="554" key="find.popup/0.1080.1920.1080/185.0.1920.1080@185.0.1920.1080" timestamp="1606325413749" />
-    <state x="454" y="117" width="1372" height="853" key="new project wizard" timestamp="1606322443097">
-      <screen x="185" y="0" width="1920" height="1080" />
-    </state>
-    <state x="454" y="117" width="1372" height="853" key="new project wizard/0.1080.1920.1080/185.0.1920.1080@185.0.1920.1080" timestamp="1606322443097" />
-    <state x="808" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1606326711595">
-      <screen x="185" y="0" width="1920" height="1080" />
-    </state>
-    <state x="808" y="239" width="672" height="678" key="search.everywhere.popup/0.1080.1920.1080/185.0.1920.1080@185.0.1920.1080" timestamp="1606326711595" />
   </component>
 </project>

@@ -7,5 +7,4 @@ public interface ISellable {
     void setName(String name);
     double getPrice();
     void setPrice(double price);
-
 }

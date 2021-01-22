@@ -17,3 +17,12 @@ name: name, price: 6.5
 name: name, price: 20.05
 name: name, price: 6.5
 name: dsafsadfsdaf, price: 0.16
+name: name, price: 20.05
+name: name, price: 6.5
+ sfasdaf , Male , not reserved, 0.21, bad habits: sdfasdfsdf
+name: sadfsadf, price: 0.21
+ dsafsdfsdaf , Female , not reserved, 0.25, last walk: 12/02/2020 07:01:24
+name: name, price: 20.05
+name: name, price: 6.5
+name: name, price: 20.05
+name: name, price: 6.5
